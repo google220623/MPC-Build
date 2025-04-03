@@ -1,11 +1,11 @@
-# MPC-HC-Build
-#### MPC-HC build setup,7z and pdb file.
+# MPC-Build
+#### MPC media player build setup,7z and pdb file.
 
-The latest version: [v2.4.1](https://github.com/google220623/MPC-HC-Build/releases/tag/2.4.1-20250403)
+The latest version of MPC-HC: [v2.4.1](https://github.com/google220623/MPC-HC-Build/releases/tag/2.4.1-20250403)
 
-Updated on April,3 2025
+File updated on April,3 2025
 
-## MPC Project information
+## MPC-HC Project information
 
 Active repository: [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc)
 
